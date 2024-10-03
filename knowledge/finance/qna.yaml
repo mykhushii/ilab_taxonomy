@@ -303,7 +303,7 @@ seed_examples:
       4.  Once amount is balanced, attach related supporting documents and posting
       the settlement, input the respective approval path and submit as usual'
 document:
-  commit: 02fe7c8
+  commit: b1b8652
   patterns:
   - SEIN_S_AR_Cash Application_V10.0.md
-  repo: git@github.ibm.com:InstructLab-BPOD-Test/bpod-knowledge-docs.git
+  repo: git@github.ibm.com:InstructLab-BPOD-Test/knowledge-bpod-docs.git      
