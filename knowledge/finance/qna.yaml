@@ -306,4 +306,4 @@ document:
   commit: b1b8652
   patterns:
   - SEIN_S_AR_Cash Application_V10.0.md
-  repo: git@github.ibm.com:InstructLab-BPOD-Test/knowledge-bpod-docs.git      
+  repo: https://github.ibm.com/InstructLab-BPOD-Test/knowledge-bpod-docs.git      
